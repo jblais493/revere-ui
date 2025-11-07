@@ -1,0 +1,4 @@
+#+title: Readme
+
+Revere UI is a component library for creating beautiful, fast, and simple websites using tailwindcss.
+
